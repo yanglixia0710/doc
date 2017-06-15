@@ -3,20 +3,14 @@
 ### My name is yanglixia.
  *This is my first work*
  **This is my first work**
- _This is my first work_
- __This is my second work__
- ~~This will be deleted!~~
  - java
  * c
  1. java
  2. c
- 
- 
   1. Make my changes
   1. Fix bug
   2. Improve formatting
-     
-    o * Make the headings bigger
+
  2. Push my commits to GitHub
  3. Open a pull request
   * Describe my changes
@@ -32,7 +26,7 @@
 
 > Push my commits to GitHub
 >> Open a pull request
-[github](http://www.baidu.com)
+[baidu](http://www.baidu.com)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-[Image of baidu](http://www.baidu.com)
+[Image of kaola](http://C:\Users\Public\Pictures\Sample Pictures.jpg)
 
