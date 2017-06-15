@@ -1,3 +1,3 @@
 # Introduction
-## printf("hello!");
+## hello!
 ### My name is yanglixia.
