@@ -16,7 +16,7 @@
   1. Fix bug
   2. Improve formatting
      
-     * Make the headings bigger
+    o * Make the headings bigger
  2. Push my commits to GitHub
  3. Open a pull request
   * Describe my changes
