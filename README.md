@@ -32,4 +32,4 @@
 
 > Push my commits to GitHub
 >> Open a pull request
-[github](www.baidu.com)
+[github](http://www.baidu.com)
