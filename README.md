@@ -33,3 +33,5 @@
 > Push my commits to GitHub
 >> Open a pull request
 [github](http://www.baidu.com)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
